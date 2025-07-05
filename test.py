@@ -1,7 +1,7 @@
 from agno.agent import Agent
 from agno.models.groq import Groq
 from agno.tools.firecrawl import FirecrawlTools
-from agno.tools.googlesearch import GoogleSearchTools
+from agno.tools.duckduckgo import DuckDuckGoTools
 import streamlit as st
 from dotenv import load_dotenv
 import json
