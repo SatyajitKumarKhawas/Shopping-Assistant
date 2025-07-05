@@ -14,7 +14,6 @@ python-dotenv
 # Agno Framework and AI Tools
 agno
 firecrawl-tools
-google-search-tools
 groq
 
 # Optional Enhancements and Utilities
